@@ -91,7 +91,4 @@ README.md
 ## Author
 
 **Tabassum Aktar Sadia**
-
-Final Year BSc in CSE
-
-American International University-Bangladesh (AIUB)
+ 
